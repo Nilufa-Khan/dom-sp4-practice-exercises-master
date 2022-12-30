@@ -1,5 +1,6 @@
 let nodeDetails = [];
 let id = 0;
+
 function validateForm(){
     let tt  = document.querySelector("#titleName").value;
     let nn = document.querySelector("#notesName").value;
