@@ -1,0 +1,22 @@
+#note-input-panel{
+    width: 50vw;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#note-container{
+    /* margin: auto; */
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+}
+body{
+    background-color: aquamarine;
+}
+.navbar-brand{
+    border: 1px solid blue;
+    border-width: 5px;
+    background-color: blue;
+    border-radius: 10px;
+}
